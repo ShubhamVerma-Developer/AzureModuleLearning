@@ -1,0 +1,1 @@
+Components are reusable, self-contained units, and make up the core of any React application. Components can have their own properties (or props), which allow you to pass data into a component, making it reusable across different scenarios. You're also able to use complex data beyond strings and primitive types, giving your components even more power.

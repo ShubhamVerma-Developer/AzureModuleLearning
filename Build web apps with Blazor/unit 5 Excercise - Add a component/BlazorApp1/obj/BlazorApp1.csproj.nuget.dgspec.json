@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 5 Excercise - Add a component\\BlazorApp1\\BlazorApp1.csproj": {}
+    "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 5 Excercise - Add a component\\BlazorApp1\\BlazorApp1.csproj": {}
   },
   "projects": {
-    "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 5 Excercise - Add a component\\BlazorApp1\\BlazorApp1.csproj": {
+    "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 5 Excercise - Add a component\\BlazorApp1\\BlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 5 Excercise - Add a component\\BlazorApp1\\BlazorApp1.csproj",
+        "projectUniqueName": "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 5 Excercise - Add a component\\BlazorApp1\\BlazorApp1.csproj",
         "projectName": "BlazorApp1",
-        "projectPath": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 5 Excercise - Add a component\\BlazorApp1\\BlazorApp1.csproj",
+        "projectPath": "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 5 Excercise - Add a component\\BlazorApp1\\BlazorApp1.csproj",
         "packagesPath": "C:\\Users\\ShubhamVerma\\.nuget\\packages\\",
-        "outputPath": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 5 Excercise - Add a component\\BlazorApp1\\obj\\",
+        "outputPath": "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 5 Excercise - Add a component\\BlazorApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ShubhamVerma\\AppData\\Roaming\\NuGet\\NuGet.Config",

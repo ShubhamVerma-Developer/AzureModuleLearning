@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.bundle.scp.css",
+      "PackagePath": "staticwebassets\\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.props",
+      "PackagePath": "build\\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.props",
+      "PackagePath": "buildMultiTargeting\\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.props",
+      "PackagePath": "buildTransitive\\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

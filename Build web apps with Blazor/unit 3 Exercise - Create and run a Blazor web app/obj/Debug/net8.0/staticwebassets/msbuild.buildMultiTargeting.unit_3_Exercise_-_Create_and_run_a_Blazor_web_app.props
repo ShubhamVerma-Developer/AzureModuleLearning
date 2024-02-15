@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.props" />
+</Project>

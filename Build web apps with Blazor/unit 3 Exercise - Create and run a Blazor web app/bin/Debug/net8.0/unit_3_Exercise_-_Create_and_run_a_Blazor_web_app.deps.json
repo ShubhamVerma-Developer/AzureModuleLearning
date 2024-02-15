@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "unit_3_Exercise_-_Create_and_run_a_Blazor_web_app/1.0.0": {
+        "runtime": {
+          "unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unit_3_Exercise_-_Create_and_run_a_Blazor_web_app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

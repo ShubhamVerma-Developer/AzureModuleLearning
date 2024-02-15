@@ -1,0 +1,30 @@
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\bin\Debug\net8.0\appsettings.Development.json
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\bin\Debug\net8.0\appsettings.json
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\bin\Debug\net8.0\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.staticwebassets.runtime.json
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\bin\Debug\net8.0\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.exe
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\bin\Debug\net8.0\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.deps.json
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\bin\Debug\net8.0\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.runtimeconfig.json
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\bin\Debug\net8.0\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.dll
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\bin\Debug\net8.0\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.pdb
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\unit 3 Exercise - Create and run a Blazor web app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\unit 3 Exercise - Create and run a Blazor web app.AssemblyInfoInputs.cache
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\unit 3 Exercise - Create and run a Blazor web app.AssemblyInfo.cs
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\unit 3 Exercise - Create and run a Blazor web app.csproj.CoreCompileInputs.cache
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.MvcApplicationPartsAssemblyInfo.cache
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\unit 3 Exercise - Create and run a Blazor web app.sourcelink.json
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\staticwebassets.build.json
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\staticwebassets.development.json
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\staticwebassets\msbuild.unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\staticwebassets\msbuild.build.unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.props
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.props
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.props
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\scopedcss\bundle\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.styles.css
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\scopedcss\projectbundle\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.bundle.scp.css
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.dll
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\refint\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.dll
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.pdb
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\unit 3 Exercise - Create and run a Blazor web app.genruntimeconfig.cache
+c:\Github\AzureModule\Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\obj\Debug\net8.0\ref\unit_3_Exercise_-_Create_and_run_a_Blazor_web_app.dll

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build web apps with Blazor", "Build web apps with Blazor", "{4AA73EE1-5D43-4BB7-8884-8A3EE5AE2010}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unit 3 Exercise - Create and run a Blazor web app", "Build web apps with Blazor\unit 3 Exercise - Create and run a Blazor web app\unit 3 Exercise - Create and run a Blazor web app.csproj", "{22629588-105C-4BDA-AD76-15C16F3ADBE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "unit 4 Razor components", "unit 4 Razor components", "{CBD6CB76-4E79-46CC-9350-8B0E3B4DBD22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp", "Build web apps with Blazor\unit 4 Razor components\BlazorApp\BlazorApp.csproj", "{30143C2C-E12C-4808-9A02-4AC7E3A82FC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "unit 5 Excercise - Add a component", "unit 5 Excercise - Add a component", "{ECC4EDFA-2D05-487F-BF5A-E0D24305BC86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp1", "Build web apps with Blazor\unit 5 Excercise - Add a component\BlazorApp1\BlazorApp1.csproj", "{80F4FD01-9A8E-4D83-8197-2C23421AF315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22629588-105C-4BDA-AD76-15C16F3ADBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22629588-105C-4BDA-AD76-15C16F3ADBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22629588-105C-4BDA-AD76-15C16F3ADBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22629588-105C-4BDA-AD76-15C16F3ADBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30143C2C-E12C-4808-9A02-4AC7E3A82FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30143C2C-E12C-4808-9A02-4AC7E3A82FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30143C2C-E12C-4808-9A02-4AC7E3A82FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30143C2C-E12C-4808-9A02-4AC7E3A82FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F4FD01-9A8E-4D83-8197-2C23421AF315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F4FD01-9A8E-4D83-8197-2C23421AF315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F4FD01-9A8E-4D83-8197-2C23421AF315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F4FD01-9A8E-4D83-8197-2C23421AF315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{22629588-105C-4BDA-AD76-15C16F3ADBE9} = {4AA73EE1-5D43-4BB7-8884-8A3EE5AE2010}
+		{CBD6CB76-4E79-46CC-9350-8B0E3B4DBD22} = {4AA73EE1-5D43-4BB7-8884-8A3EE5AE2010}
+		{30143C2C-E12C-4808-9A02-4AC7E3A82FC7} = {CBD6CB76-4E79-46CC-9350-8B0E3B4DBD22}
+		{ECC4EDFA-2D05-487F-BF5A-E0D24305BC86} = {4AA73EE1-5D43-4BB7-8884-8A3EE5AE2010}
+		{80F4FD01-9A8E-4D83-8197-2C23421AF315} = {ECC4EDFA-2D05-487F-BF5A-E0D24305BC86}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06055D9-1DD9-4168-AB89-535975A7B0D6}
+	EndGlobalSection
+EndGlobal

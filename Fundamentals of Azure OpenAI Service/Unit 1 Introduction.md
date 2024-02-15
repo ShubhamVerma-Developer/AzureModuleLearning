@@ -1,0 +1,1 @@
+OpenAI makes its AI models available to developers to build powerful software applications, such as ChatGPT. There are tons of other examples of OpenAI applications on the OpenAI site, ranging from practical, such as generating text from code, to purely entertaining, such as making up scary stories.

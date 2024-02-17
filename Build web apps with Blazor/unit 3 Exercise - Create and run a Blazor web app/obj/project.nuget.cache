@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cc3jomnWJaKM7o74FBWyNFsUI9vzdzyye5ZQxDcEQrXNZ6oRsYOJwSQsYDc3rSMi1be25MrL6WHLS2h8DbeBYw==",
+  "dgSpecHash": "SThMLVgdBMZ53v2bXVDAB5kuZiy//1BTJN8AoenDCKwqrzK62gCH0j8OWcLe98xqBJ15u8MWc7CsnZw0NQdFAQ==",
   "success": true,
-  "projectFilePath": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\unit 3 Exercise - Create and run a Blazor web app.csproj",
+  "projectFilePath": "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\unit 3 Exercise - Create and run a Blazor web app.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

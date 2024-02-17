@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\unit 3 Exercise - Create and run a Blazor web app.csproj": {}
+    "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\unit 3 Exercise - Create and run a Blazor web app.csproj": {}
   },
   "projects": {
-    "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\unit 3 Exercise - Create and run a Blazor web app.csproj": {
+    "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\unit 3 Exercise - Create and run a Blazor web app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\unit 3 Exercise - Create and run a Blazor web app.csproj",
+        "projectUniqueName": "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\unit 3 Exercise - Create and run a Blazor web app.csproj",
         "projectName": "unit_3_Exercise_-_Create_and_run_a_Blazor_web_app",
-        "projectPath": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\unit 3 Exercise - Create and run a Blazor web app.csproj",
+        "projectPath": "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\unit 3 Exercise - Create and run a Blazor web app.csproj",
         "packagesPath": "C:\\Users\\ShubhamVerma\\.nuget\\packages\\",
-        "outputPath": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\obj\\",
+        "outputPath": "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 3 Exercise - Create and run a Blazor web app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ShubhamVerma\\AppData\\Roaming\\NuGet\\NuGet.Config",

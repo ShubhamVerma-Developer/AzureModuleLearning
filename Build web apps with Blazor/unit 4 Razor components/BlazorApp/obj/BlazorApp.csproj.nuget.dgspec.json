@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 4 Razor components\\BlazorApp\\BlazorApp.csproj": {}
+    "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 4 Razor components\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 4 Razor components\\BlazorApp\\BlazorApp.csproj": {
+    "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 4 Razor components\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 4 Razor components\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 4 Razor components\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 4 Razor components\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 4 Razor components\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\ShubhamVerma\\.nuget\\packages\\",
-        "outputPath": "c:\\Github\\AzureModule\\Build web apps with Blazor\\unit 4 Razor components\\BlazorApp\\obj\\",
+        "outputPath": "C:\\Github\\AzureModule\\Build web apps with Blazor\\unit 4 Razor components\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ShubhamVerma\\AppData\\Roaming\\NuGet\\NuGet.Config",

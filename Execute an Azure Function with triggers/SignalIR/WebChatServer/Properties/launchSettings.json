@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WebChatServer": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7168",
+      "launchBrowser": false
+    }
+  }
+}

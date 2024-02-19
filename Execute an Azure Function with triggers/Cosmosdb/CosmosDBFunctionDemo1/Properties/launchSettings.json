@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CosmosDBFunctionDemo1": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7098",
+      "launchBrowser": false
+    }
+  }
+}

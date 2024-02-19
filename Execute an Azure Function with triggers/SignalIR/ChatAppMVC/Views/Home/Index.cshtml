@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.12/signalr.min.js" integrity="sha512-rQm2bvVuqEjdaJKcVj/+bx+FnccQCHZpBIMQRJkyDACamQ12m6XuFb2aHQYgdTEnnHNIsAMeh1hODKwm2Uvy5A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body>
+    <script>
+        const connection = new signalR.HubConnectionBuilder().withUrl('http://localhost:7168/api/').configureLogging(signalR.LogLevel.Information).build();
+        connection.start().then(() => {
+            $('#viewMessages').append("<p>" + m.text + "</p>");
+        }).catch((err) => {
+            return console.error(err.toString());
+        });
+
+
+
+        connection.on('newMessage', (m) => {
+            $('#viewMessages').append("<p>" + m.text + "</p>");
+        });
+
+        function send() {
+            $.ajax({
+                url: ' http://localhost:7168/api/sendMessage',
+                type: 'post',
+                data: JSON.stringify({
+                    text: $('#inputSend').val()
+                }),
+                headers: {
+                    "Content-type": 'application/json',
+                },
+                dataType: 'json'
+            });
+            $('#inputSend').val("");
+        }
+    </script>
+
+
+
+
+    <div class="container">
+        <div id="master">
+            <div id="viewMessages"></div>
+            <div id="messageSender">
+                <form>
+                    <input type="text" id="inputSend" />
+                    <button id="sendButton" onclick="send()" type="button">send</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

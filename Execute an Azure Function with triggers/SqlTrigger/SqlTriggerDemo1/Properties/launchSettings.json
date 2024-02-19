@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SqlTriggerDemo1": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7044",
+      "launchBrowser": false
+    }
+  }
+}

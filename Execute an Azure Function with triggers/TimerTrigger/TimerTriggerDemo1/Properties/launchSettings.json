@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TimerTriggerDemo1": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7248",
+      "launchBrowser": false
+    }
+  }
+}

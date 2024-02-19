@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "BlobTriggerFunctionAppDemo2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7200",
+      "launchBrowser": false
+    }
+  }
+}

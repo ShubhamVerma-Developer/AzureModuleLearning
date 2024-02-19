@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "storage1": {
+      "type": "storage.emulator",
+      "connectionId": "AzureWebJobsStorage"
+    },
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "cosmosdb1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ServiceLinker/locations/eastus/connectors/CosmosDBConnectionString_BF52526EDD",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.DocumentDB/databaseAccounts/consmosdbdemo1",
+      "type": "cosmosdb.azure",
+      "connectionId": "CosmosDBConnectionString",
+      "dynamicId": null
+    },
+    "appInsights1": {
+      "secretStore": null,
+      "resourceId": null,
+      "type": "appInsights.sdk",
+      "connectionId": null
+    }
+  }
+}

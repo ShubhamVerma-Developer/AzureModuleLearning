@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicebustopoicMessageSend", "ServicebustopoicMessageSend.csproj", "{26F6312B-F702-4F69-8A5A-B16EDF7ACCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26F6312B-F702-4F69-8A5A-B16EDF7ACCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F6312B-F702-4F69-8A5A-B16EDF7ACCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F6312B-F702-4F69-8A5A-B16EDF7ACCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F6312B-F702-4F69-8A5A-B16EDF7ACCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FCC33EF-3417-4899-A00B-945800EBDE7F}
+	EndGlobalSection
+EndGlobal

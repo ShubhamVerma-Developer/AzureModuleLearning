@@ -1,0 +1,1 @@
+C:\Github\AzureModule\Create a cross-platform app with .NET MAUI\demomuiproject\demomuiproject.csproj;x64

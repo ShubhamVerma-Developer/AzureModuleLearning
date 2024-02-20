@@ -9,7 +9,7 @@ namespace BlobTriggerFunctionAppDemo2
     public class Function1
     {
         [FunctionName("Function1")]
-        public void Run([BlobTrigger("finaltry/{name}", Connection = "ShubhamStorage")]Stream myBlob, string name, ILogger log)
+        public void Run([BlobTrigger("polycab-ai-chatbot/{name}", Connection = "shubhamaccountname")]Stream myBlob, string name, ILogger log)
         {
             log.LogInformation($"C# Blob trigger function Processed blob\n Name:{name} \n Size: {myBlob.Length} Bytes");
         }

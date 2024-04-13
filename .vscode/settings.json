@@ -1,3 +1,9 @@
 {
-  "dotnet.defaultSolution": "BlazorApp.sln"
+  "dotnet.defaultSolution": "BlazorApp.sln",
+  "azureFunctions.deploySubpath": "Build Serverless APIs with Azure Functions\\mslearn-build-api-azure-functions\\api",
+  "azureFunctions.postDeployTask": "npm install (functions)",
+  "azureFunctions.projectLanguage": "TypeScript",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.preDeployTask": "npm prune (functions)"
 }
